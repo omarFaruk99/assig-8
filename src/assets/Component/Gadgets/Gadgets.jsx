@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 
 const Gadgets = ({ allCategory }) => {
-  // Destructure categories and products
+  // Destructure categories and products data
   const { categories, products } = allCategory;
 
   const [displayedProducts, setDisplayedProducts] = useState(products);

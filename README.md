@@ -21,5 +21,5 @@ This project showcases a dynamic and interactive web application built using cor
 5. **Interactive Product Details Page**: Detailed views for each product, including specifications, ratings, and user reviews, accessible without page reloads.
 
 ## Live Demo
-Explore the live project [here](https://fanciful-empanada-e3c056.netlify.app/).
+Explore the live project 
 https://fanciful-empanada-e3c056.netlify.app/
